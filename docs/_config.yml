@@ -1,9 +1,9 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : 우시장플러스+
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      좋은 사양관리의 첫 단추는 좋은 송아지를 사는 것 입니다.
+                      우시장 출품우의 혈통과 가격을 분석해
+                      한우 농가가 꼭 맞는 소를 살 수 있게 도와줍니다.
 baseurl             : "/wp"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -24,24 +24,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : 주식회사 앤틀러
+  image             : https://images.unsplash.com/photo-1570460988350-23e05c32c45c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : official@antller.com
   facebook          : your_username
-  github            : your_username
+  github            : adatalab#
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : adatalab
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+# linkedin          : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
