@@ -2,7 +2,8 @@
 layout: default
 permalink: /
 ---
-
-{% include landing.html %}
+<center>
+<img src="banner.png" width='97%'>
+</center>
 
 {% include blog/index.html %}
