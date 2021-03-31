@@ -5,4 +5,4 @@ permalink: /
 
 {% include landing.html %}
 
-<!-- {% include blog/index.html %} -->
+{% include blog/index.html %}
