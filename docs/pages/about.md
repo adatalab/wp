@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-weight: 1
+title: 가격전망
+permalink: /predict/
+weight: 2
 ---
 
 # **About Me**
