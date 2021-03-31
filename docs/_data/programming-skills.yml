@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: 숫송아지
   percentage: 90
   color: danger
 
-- name: Go
+- name: 암송아지
   percentage: 80
-  color:
-
-- name: Python
-  percentage: 70
   color: dark
+
+- name: 최고가
+  percentage: 100
+  color: danger
